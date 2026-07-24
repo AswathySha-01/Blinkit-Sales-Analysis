@@ -42,6 +42,4 @@ This project is an interactive Power BI dashboard developed to analyze Blinkit's
 
 The objective of this project is to transform raw sales data into meaningful business insights using Power BI's interactive visualization capabilities.
 
----
 
-Developed by: **Aswathy S**
